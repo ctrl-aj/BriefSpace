@@ -1,0 +1,15 @@
+body,html {
+    font-family: Noto Sans,sans-serif;
+    font-size: 120%;
+    height:100%;
+    margin:0;
+    padding:0;
+  }
+  
+  #center {
+    background-image: url("../img/background/back7.png");
+    height: 120%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

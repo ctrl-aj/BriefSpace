@@ -1,0 +1,38 @@
+#header {
+  opacity: 0.9%;
+}
+
+
+#header a {
+  color:#fff;
+  text-decoration: none;
+}
+
+
+.header-box {
+  text-align: center;
+  padding:2% 0%;
+  float:left;
+  width: 50%;
+}
+
+.header-box input {
+  width: 30%;
+  border-radius: 2px;
+  border-style: solid;
+  padding: 3pt;
+}
+
+.header-box button {
+  padding: 2pt;
+}
+
+.header-box img {
+  height: 13px;
+}
+
+.header-box a {
+  font-size: 80%;
+  font-weight: bold;
+  padding:0% 5%;
+}

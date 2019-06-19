@@ -1,0 +1,97 @@
+LM - LM - Antropologia culturale ed etnologia
+LM - LM - Archeologia
+LM - LM - Architettura del paesaggio
+LM - LM - Architettura e ingegneria edile-architettura
+LM - LM - Archivistica e biblioteconomia
+LM - LM - Biologia
+LM - LM - Biotecnologie agrarie
+LM - LM - Biotecnologie industriali
+LM - LM - Biotecnologie mediche, veterinarie e farmaceutiche
+LM - LM - Conservazione dei beni architettonici e ambientali
+LM - LM - Scienze per la conservazione e restauro dei beni culturali
+LM - LM - Design
+LM - LM - Farmacia e farmacia industriale
+LM - LM - Filologia moderna
+LM - LM - Filologia, letterature e storia dell'antichità
+LM - LM - Finanza
+LM - LM - Fisica
+LM - LM - Informatica
+LM - LM - Informazione e sistemi editoriali
+LM - LM - Ingegneria aerospaziale e astronautica
+LM - LM - Ingegneria biomedica
+LM - LM - Ingegneria chimica
+LM - LM - Ingegneria civile
+LM - LM - Ingegneria dei sistemi edilizi
+LM - LM - Ingegneria dell'automazione
+LM - LM - Ingegneria della sicurezza
+LM - LM - Ingegneria delle telecomunicazioni
+LM - LM - Ingegneria elettrica
+LM - LM - Ingegneria elettronica
+LM - LM - Ingegneria energetica e nucleare
+LM - LM - Ingegneria gestionale
+LM - LM - Ingegneria informatica
+LM - LM - Ingegneria meccanica
+LM - LM - Ingegneria navale
+LM - LM - Ingegneria per l'ambiente e il territorio
+LM - LM - Lingue e letterature dell'Africa e dell'Asia
+LM - LM - Lingue e letterature moderne europee e americane
+LM - LM - Lingue moderne per la comunicazione e la cooperazione internazionale
+LM - LM - Linguistica
+LM - LM - Matematica
+LM - LM - Medicina e Chirurgia
+LM - LM - Medicina Veterinaria
+LM - LM - Metodologie informatiche per le discipline umanistiche
+LM - LM - Modellistica matematico-fisica per l'ingegneria
+LM - LM - Musicologia e beni musicali
+LM - LM - Odontoiatria e protesi dentaria
+LM - LM - Organizzazione e gestione dei servizi per lo sport e le attività motorie
+LM - LM - Pianificazione territoriale urbanistica e ambientale
+LM - LM - Progettazione e gestione dei sistemi turistici
+LM - LM - Programmazione e gestione dei servizi educativi
+LM - LM - Psicologia
+LM - LM - Relazioni internazionali
+LM - LM - Scienza e ingegneria dei materiali
+LM - LM - Scienze chimiche
+LM - LM - Scienze cognitive
+LM - LM - Scienze dell'economia
+LM - LM - Scienze dell'educazione degli adulti e della formazione continua
+LM - LM - Scienze dell'universo
+LM - LM - Scienze della comunicazione pubblica, d'impresa e pubblicità
+LM - LM - Scienze della natura
+LM - LM - Scienze della nutrizione umana
+LM - LM - Scienze della politica
+LM - LM - Scienze delle pubbliche amministrazioni
+LM - LM - Scienze delle religioni
+LM - LM - Scienze dello spettacolo e produzione multimediale
+LM - LM - Sicurezza informatica
+LM - LM - Scienze e tecniche delle attività motorie preventive e adattate
+LM - LM - Scienze e tecniche dello sport
+LM - LM - Scienze e tecnologie agrarie
+LM - LM - Scienze e tecnologie alimentari
+LM - LM - Scienze e tecnologie della chimica industriale
+LM - LM - Scienze e tecnologie della navigazione (80/M)
+LM - LM - Scienze e tecnologie forestali e ambientali
+LM - LM - Scienze e tecnologie geologiche
+LM - LM - Scienze e tecnologie per l'ambiente e il territorio
+LM - LM - Scienze economiche per l'ambiente e la cultura
+LM - LM - Scienze economico-aziendali
+LM - LM - Scienze filosofiche
+LM - LM - Scienze geofisiche
+LM - LM - Scienze geografiche
+LM - LM - Scienze per la cooperazione allo sviluppo
+LM - LM - Scienze statistiche
+LM - LM - Scienze statistiche attuariali e finanziarie
+LM - LM - Scienze storiche
+LM - LM - Scienze pedagogiche
+LM - LM - Scienze zootecniche e tecnologie animali
+LM - LM - Servizio sociale e politiche sociali
+LM - LM - Sociologia e ricerca sociale
+LM - LM - Storia dell'arte
+LM - LM - Studi europei
+LM - LM - Tecniche e metodi per la società dell'informazione
+LM - LM - Teorie della comunicazione
+LM - LM - Teorie e metodologie dell'E-Learning e della media education
+LM - LM - Traduzione specialistica e interpretariato
+LM - 
+LM - 
+
